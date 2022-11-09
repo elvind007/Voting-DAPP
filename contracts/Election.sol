@@ -4,9 +4,9 @@ contract Election{
     //constructor to initialize the candidates
     string public candidate;
     //read/write candidates
-    function Election() public{
+    //constructor
+    constructor () public{
         candidate="Candidate 1";
-        candidate="Candidate 2";
     }
     
 }
