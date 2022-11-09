@@ -42,5 +42,16 @@ $ cd election
 
 
 
+ //truffle console
 
+ //truffle migrate --reset
+
+
+## Smoke Test for contracts
+
+```
+truffle console
+```
+Election.deployed().then(function(instance){app=instance})
+app.candidates()
 ```
