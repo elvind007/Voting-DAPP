@@ -7,10 +7,8 @@ contract Election{
         string name;
         uint voteCount;
     }
-    // Store accounts that have voted
-    mapping(address => bool) public voters;
-
-     // Fetch Candidate
+    // Store accounts
+    // Fetch Candidate
     mapping(uint => Candidate) public candidates;
 
     // Store Candidates Count
