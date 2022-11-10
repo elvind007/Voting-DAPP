@@ -51,7 +51,15 @@ $ cd election
 
 ```
 truffle console
-```
 Election.deployed().then(function(instance){app=instance})
 app.candidates()
 ```
+
+Check blockchain accounts
+    
+    ```
+    web3.eth.getAccounts();
+    ```
+
+
+
