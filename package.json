@@ -1,8 +1,8 @@
 {
-  "name": "pet-shop",
+  "name": "blockchain-election-basic",
   "version": "1.0.0",
   "description": "",
-  "main": "truffle.js",
+  "main": "truffle-config.js",
   "directories": {
     "test": "test"
   },
@@ -11,8 +11,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
+  "license": "GPL-3.0",
   "devDependencies": {
-    "lite-server": "^2.3.0"
+    "lite-server": "^2.6.1"
   }
 }
