@@ -45,3 +45,8 @@ Visit this URL in your browser: http://localhost:3000
 
 1. Use `web3.eth.getAccounts()` to get accounts now
 2. To bootstrap sample truffle project, use command `truffle unbox pet-shop`
+
+
+
+#IF YOU LIKED THE PROJECT, FORK AND STAR ♥
+## cONTACT ME IF ANY HELP NEEDED, MY INFO IS ON MY PROFILE
